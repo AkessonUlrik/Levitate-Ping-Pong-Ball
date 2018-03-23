@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/cygdrive/d/KodLek/C/Fuzzy/main.c" "/cygdrive/d/KodLek/C/Fuzzy/cmake-build-debug/CMakeFiles/Fuzzy.dir/main.c.o"
+  "/cygdrive/c/Users/Ulrik/Documents/GitHub/Levitate-Ping-Pong-Ball/Fuzzy/main.c" "/cygdrive/c/Users/Ulrik/Documents/GitHub/Levitate-Ping-Pong-Ball/Fuzzy/cmake-build-debug/CMakeFiles/Fuzzy.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

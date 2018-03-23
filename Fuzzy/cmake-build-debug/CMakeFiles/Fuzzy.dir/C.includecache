@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/d/KodLek/C/Fuzzy/main.c
+/cygdrive/c/Users/Ulrik/Documents/GitHub/Levitate-Ping-Pong-Ball/Fuzzy/main.c
 stdio.h
 -
 math.h

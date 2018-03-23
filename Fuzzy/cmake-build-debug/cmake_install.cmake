@@ -1,4 +1,4 @@
-# Install script for directory: /cygdrive/d/KodLek/C/Fuzzy
+# Install script for directory: /cygdrive/c/Users/Ulrik/Documents/GitHub/Levitate-Ping-Pong-Ball/Fuzzy
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/cygdrive/d/KodLek/C/Fuzzy/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/cygdrive/c/Users/Ulrik/Documents/GitHub/Levitate-Ping-Pong-Ball/Fuzzy/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
